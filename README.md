@@ -7,6 +7,10 @@ Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning*
   - Understanding PyTorch Tensors (`torch.tensor`)
   - Tensor initializations, shapes, and data types
   - Basic operations and manipulation
+- [x] **Day 2: Autograd & Computation Graphs**
+  - Understanding PyTorch Autograd for gradient calculation
+  - Dynamic computation graphs and `requires_grad=True`
+  - Backpropagation fundamentals using `.backward()`
 - [ ] **Data Pipeline & Datasets** (Dataset & DataLoader)
 - [ ] **Neural Network Fundamentals** (`torch.nn`)
 - [ ] **Loss Functions & Optimizers**
@@ -21,7 +25,8 @@ Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning*
 
 ## 🛠️ Project Structure
 ```text
-├── 01_Tensors_Basics.ipynb      # Initial notebook covering Tensor fundamentals
+├── 01_Tensors_in_pytorch.ipynb  # Comprehensive guide to Tensor fundamentals
+├── 02_PyTorch_Autograd.ipynb    # Code and concepts regarding Autograd & Backpropagation
 └── README.md                    # Repository documentation
 ```
 
@@ -30,4 +35,3 @@ My objective is to build a robust foundation in machine learning theory and math
 
 ---
 *Feel free to explore the notebooks and star ⭐ this repository if you find it helpful!*
-

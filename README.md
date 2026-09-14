@@ -11,6 +11,10 @@ Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning*
   - Understanding PyTorch Autograd for gradient calculation
   - Dynamic computation graphs and `requires_grad=True`
   - Backpropagation fundamentals using `.backward()`
+- [x] **Day 3: Simple Neural Network (Breast Cancer Classification)**
+  - Implemented an end-to-end binary classification training workflow
+  - Experimented with manual workflow layers and architectural elements
+  - Optimized hyperparameters, boosting validation accuracy from **53.69% to 97.37%** 🔥
 - [ ] **Data Pipeline & Datasets** (Dataset & DataLoader)
 - [ ] **Neural Network Fundamentals** (`torch.nn`)
 - [ ] **Loss Functions & Optimizers**
@@ -25,9 +29,10 @@ Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning*
 
 ## 🛠️ Project Structure
 ```text
-├── 01_Tensors_in_pytorch.ipynb  # Comprehensive guide to Tensor fundamentals
-├── 02_PyTorch_Autograd.ipynb    # Code and concepts regarding Autograd & Backpropagation
-└── README.md                    # Repository documentation
+├── 01_Tensors_in_pytorch.ipynb                         # Comprehensive guide to Tensor fundamentals
+├── 02_PyTorch_Autograd.ipynb                           # Code and concepts regarding Autograd & Backpropagation
+├── 03_Neural_Network_Breast_Cancer_Classification.ipynb # End-to-end binary classification (97.37% Accuracy 🎯)
+└── README.md                                           # Repository documentation
 ```
 
 ## 🎯 Career Goals

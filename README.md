@@ -15,9 +15,11 @@ Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning*
   - Implemented an end-to-end binary classification training workflow
   - Experimented with manual workflow layers and architectural elements
   - Optimized hyperparameters, boosting validation accuracy from **53.69% to 97.37%** 🔥
+- [x] **Day 4: nn.Module & torch.optim (Building Blocks)**
+  - Constructing custom layers and model topologies using `torch.nn.Module`
+  - Configuring state-of-the-art optimization routines via `torch.optim` (SGD, Adam)
+  - Integrating automated weight updates and explicit gradient resetting (`optimizer.zero_grad()`)
 - [ ] **Data Pipeline & Datasets** (Dataset & DataLoader)
-- [ ] **Neural Network Fundamentals** (`torch.nn`)
-- [ ] **Loss Functions & Optimizers**
 - [ ] **Computer Vision (CNNs) & NLP (RNNs/Transformers)**
 - [ ] **Model Deployment & Evaluation**
 
@@ -32,6 +34,7 @@ Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning*
 ├── 01_Tensors_in_pytorch.ipynb                         # Comprehensive guide to Tensor fundamentals
 ├── 02_PyTorch_Autograd.ipynb                           # Code and concepts regarding Autograd & Backpropagation
 ├── 03_Neural_Network_Breast_Cancer_Classification.ipynb # End-to-end binary classification (97.37% Accuracy 🎯)
+├── 04_Building_Blocks_of_Neural_Networks.ipynb         # Structural deep dive into nn.Module & torch.optim
 └── README.md                                           # Repository documentation
 ```
 

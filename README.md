@@ -19,7 +19,10 @@ Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning*
   - Constructing custom layers and model topologies using `torch.nn.Module`
   - Configuring state-of-the-art optimization routines via `torch.optim` (SGD, Adam)
   - Integrating automated weight updates and explicit gradient resetting (`optimizer.zero_grad()`)
-- [ ] **Data Pipeline & Datasets** (Dataset & DataLoader)
+- [x] **Day 5: Data Pipeline & Datasets (Dataset & DataLoader)**
+  - Utilizing `torch.utils.data.Dataset` for structured custom data parsing
+  - Implementing `torch.utils.data.DataLoader` for streamlined mini-batch generation
+  - Managing shuffling, data batching pipelines, and multi-process data loading execution
 - [ ] **Computer Vision (CNNs) & NLP (RNNs/Transformers)**
 - [ ] **Model Deployment & Evaluation**
 
@@ -35,6 +38,7 @@ Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning*
 ├── 02_PyTorch_Autograd.ipynb                           # Code and concepts regarding Autograd & Backpropagation
 ├── 03_Neural_Network_Breast_Cancer_Classification.ipynb # End-to-end binary classification (97.37% Accuracy 🎯)
 ├── 04_Building_Blocks_of_Neural_Networks.ipynb         # Structural deep dive into nn.Module & torch.optim
+├── 05_PyTorch_Data_Pipelines_and_Datasets.ipynb        # Custom dataset creation and mini-batch loading
 └── README.md                                           # Repository documentation
 ```
 

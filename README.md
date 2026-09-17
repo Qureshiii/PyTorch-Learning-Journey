@@ -23,6 +23,12 @@ Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning*
   - Utilizing `torch.utils.data.Dataset` for structured custom data parsing
   - Implementing `torch.utils.data.DataLoader` for streamlined mini-batch generation
   - Managing shuffling, data batching pipelines, and multi-process data loading execution
+- [x] **Day 6: ANN / MLP on Fashion MNIST Dataset**
+  - Designing an Artificial Neural Network / Multilayer Perceptron (MLP) structure for multi-class image handling
+  - Processing pixel matrix dimensional inputs using flattening components (`nn.Flatten`)
+  - Tracking multi-class loss trends utilizing Cross-Entropy loss functions and dynamic hidden layer activations
+- [ ] **Day 7: Optimizing Neural Networks** (Regularization, Dropout & Advanced Tuning)
+- [ ] **Day 8: Hyperparameter Tuning via Optuna Trials**
 - [ ] **Computer Vision (CNNs) & NLP (RNNs/Transformers)**
 - [ ] **Model Deployment & Evaluation**
 
@@ -39,6 +45,7 @@ Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning*
 ├── 03_Neural_Network_Breast_Cancer_Classification.ipynb # End-to-end binary classification (97.37% Accuracy 🎯)
 ├── 04_Building_Blocks_of_Neural_Networks.ipynb         # Structural deep dive into nn.Module & torch.optim
 ├── 05_PyTorch_Data_Pipelines_and_Datasets.ipynb        # Custom dataset creation and mini-batch loading
+├── 06_FashionMNIST_Classification_MLP.ipynb            # Image classification using MLP and cross-entropy loss
 └── README.md                                           # Repository documentation
 ```
 

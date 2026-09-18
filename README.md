@@ -1,8 +1,25 @@
-[![Open In Colab](https://google.com)](https://google.com)
-
 # PyTorch Learning Journey 🚀
 
+<p align="center">
+  <img src="https://github.com" alt="PyTorch Code Validation Status" />
+</p>
+
 Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning** from scratch! This space serves as a central hub for all my code implementations, hands-on exercises, notebook practices, and core concepts as I progress through the world of Artificial Intelligence.
+
+## 🚀 Interactive Notebooks Matrix
+Aap kisi bhi notebook ke saamne diye gaye **Open in Colab** button par click kar ke direct code execution environment launch kar sakte hain:
+
+| Day Track | Core Focus Topic | Interactive Execution Link |
+| :--- | :--- | :--- |
+| **Day 1** | Introduction to Tensors Foundations | <a href="https://google.com" target="_blank"><img src="https://google.com" alt="Open In Colab"/></a> |
+| **Day 2** | Autograd Engine & Computation Graphs | <a href="https://google.com" target="_blank"><img src="https://google.com" alt="Open In Colab"/></a> |
+| **Day 3** | Simple Neural Network: Breast Cancer Classification | <a href="https://google.com" target="_blank"><img src="https://google.com" alt="Open In Colab"/></a> |
+| **Day 4** | Layer Architectures via nn.Module & torch.optim | <a href="https://google.com" target="_blank"><img src="https://google.com" alt="Open In Colab"/></a> |
+| **Day 5** | Data Pipeline Batching via Dataset & DataLoader | <a href="https://google.com" target="_blank"><img src="https://google.com" alt="Open In Colab"/></a> |
+| **Day 6** | Multi-Class Image Classification: Fashion MNIST | <a href="https://google.com" target="_blank"><img src="https://google.com" alt="Open In Colab"/></a> |
+| **Day 7** | Advanced Optimization, Regularization & Dropout | <a href="https://google.com" target="_blank"><img src="https://google.com" alt="Open In Colab"/></a> |
+
+---
 
 ## 📌 Roadmap & Topics Covered
 - [x] **Day 1: Introduction to Tensors**
@@ -45,6 +62,8 @@ Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning*
 
 ## 🛠️ Project Structure
 ```text
+├── .github/workflows/
+│   └── code_validation.yml                             # Automated CI/CD execution script for pipeline quality
 ├── 01_Tensors_in_pytorch.ipynb                         # Comprehensive guide to Tensor fundamentals
 ├── 02_PyTorch_Autograd.ipynb                           # Code and concepts regarding Autograd & Backpropagation
 ├── 03_Neural_Network_Breast_Cancer_Classification.ipynb # End-to-end binary classification (97.37% Accuracy 🎯)

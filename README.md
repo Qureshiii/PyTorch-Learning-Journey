@@ -27,7 +27,10 @@ Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning*
   - Designing an Artificial Neural Network / Multilayer Perceptron (MLP) structure for multi-class image handling
   - Processing pixel matrix dimensional inputs using flattening components (`nn.Flatten`)
   - Tracking multi-class loss trends utilizing Cross-Entropy loss functions and dynamic hidden layer activations
-- [ ] **Day 7: Optimizing Neural Networks** (Regularization, Dropout & Advanced Tuning)
+- [x] **Day 7: Optimizing Neural Networks**
+  - Implementing network regularization strategies to combat overfitting configurations
+  - Applying Dropout layers (`nn.Dropout`) and structural normalization techniques
+  - Experimenting with advanced hyperparameter tuning and optimization scheduler logic
 - [ ] **Day 8: Hyperparameter Tuning via Optuna Trials**
 - [ ] **Computer Vision (CNNs) & NLP (RNNs/Transformers)**
 - [ ] **Model Deployment & Evaluation**
@@ -46,6 +49,7 @@ Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning*
 ├── 04_Building_Blocks_of_Neural_Networks.ipynb         # Structural deep dive into nn.Module & torch.optim
 ├── 05_PyTorch_Data_Pipelines_and_Datasets.ipynb        # Custom dataset creation and mini-batch loading
 ├── 06_FashionMNIST_Classification_MLP.ipynb            # Image classification using MLP and cross-entropy loss
+├── 07_Optimizing_Neural_Networks.ipynb                 # Regularization, Dropout, and network tuning executions
 └── README.md                                           # Repository documentation
 ```
 

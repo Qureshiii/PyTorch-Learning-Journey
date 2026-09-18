@@ -6,25 +6,6 @@
 
 Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning** from scratch! This space serves as a central hub for all my code implementations, hands-on exercises, notebook practices, and core concepts as I progress through the world of Artificial Intelligence.
 
-## 🚀 Interactive Notebooks Matrix
-Aap kisi bhi notebook ke saamne diye gaye **Open in Colab** button par click kar ke direct code execution environment launch kar sakte hain:
-
-## 🚀 Interactive Notebooks Matrix
-Aap kisi bhi notebook ke saamne diye gaye **Open in Colab** button par click kar ke direct code execution environment launch kar sakte hain:
-
-| Day Track | Core Focus Topic | Interactive Execution Link |
-| :--- | :--- | :--- |
-| **Day 1** | Introduction to Tensors Foundations | <a href="https://google.com" target="_blank"><img src="https://google.com" alt="Open In Colab"/></a> |
-| **Day 2** | Autograd Engine & Computation Graphs | <a href="https://google.com" target="_blank"><img src="https://google.com" alt="Open In Colab"/></a> |
-| **Day 3** | Simple Neural Network: Breast Cancer Classification | <a href="https://google.com" target="_blank"><img src="https://google.com" alt="Open In Colab"/></a> |
-| **Day 4** | Layer Architectures via nn.Module & torch.optim | <a href="https://google.com" target="_blank"><img src="https://google.com" alt="Open In Colab"/></a> |
-| **Day 5** | Data Pipeline Batching via Dataset & DataLoader | <a href="https://google.com" target="_blank"><img src="https://google.com" alt="Open In Colab"/></a> |
-| **Day 6** | Multi-Class Image Classification: Fashion MNIST | <a href="https://google.com" target="_blank"><img src="https://google.com" alt="Open In Colab"/></a> |
-| **Day 7** | Advanced Optimization, Regularization & Dropout | <a href="https://google.com" target="_blank"><img src="https://google.com" alt="Open In Colab"/></a> |
-
-
----
-
 ## 📌 Roadmap & Topics Covered
 - [x] **Day 1: Introduction to Tensors**
   - Understanding PyTorch Tensors (`torch.tensor`)

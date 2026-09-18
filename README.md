@@ -9,6 +9,9 @@ Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning*
 ## 🚀 Interactive Notebooks Matrix
 Aap kisi bhi notebook ke saamne diye gaye **Open in Colab** button par click kar ke direct code execution environment launch kar sakte hain:
 
+## 🚀 Interactive Notebooks Matrix
+Aap kisi bhi notebook ke saamne diye gaye **Open in Colab** button par click kar ke direct code execution environment launch kar sakte hain:
+
 | Day Track | Core Focus Topic | Interactive Execution Link |
 | :--- | :--- | :--- |
 | **Day 1** | Introduction to Tensors Foundations | <a href="https://google.com" target="_blank"><img src="https://google.com" alt="Open In Colab"/></a> |
@@ -18,6 +21,7 @@ Aap kisi bhi notebook ke saamne diye gaye **Open in Colab** button par click kar
 | **Day 5** | Data Pipeline Batching via Dataset & DataLoader | <a href="https://google.com" target="_blank"><img src="https://google.com" alt="Open In Colab"/></a> |
 | **Day 6** | Multi-Class Image Classification: Fashion MNIST | <a href="https://google.com" target="_blank"><img src="https://google.com" alt="Open In Colab"/></a> |
 | **Day 7** | Advanced Optimization, Regularization & Dropout | <a href="https://google.com" target="_blank"><img src="https://google.com" alt="Open In Colab"/></a> |
+
 
 ---
 

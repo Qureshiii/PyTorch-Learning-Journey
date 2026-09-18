@@ -1,3 +1,5 @@
+[![Open In Colab](https://google.com)](https://google.com)
+
 # PyTorch Learning Journey 🚀
 
 Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning** from scratch! This space serves as a central hub for all my code implementations, hands-on exercises, notebook practices, and core concepts as I progress through the world of Artificial Intelligence.

@@ -35,7 +35,10 @@ Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning*
   - Implementing network regularization strategies to combat overfitting configurations
   - Applying Dropout layers (`nn.Dropout`) and structural normalization techniques
   - Experimenting with advanced hyperparameter tuning and optimization scheduler logic
-- [ ] **Day 8: Hyperparameter Tuning via Optuna Trials**
+- [x] **Day 8: Hyperparameter Tuning via Optuna Trials**
+  - Defining dynamic objective functions for autonomous neural network parameter evaluations
+  - Implementing Optuna study trials to automate optimal learning rates and layered nodes selection
+  - Maximizing evaluation accuracy using automated trial tracking and optimization architectures
 - [ ] **Computer Vision (CNNs) & NLP (RNNs/Transformers)**
 - [ ] **Model Deployment & Evaluation**
 
@@ -56,6 +59,7 @@ Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning*
 ├── 05_PyTorch_Data_Pipelines_and_Datasets.ipynb        # Custom dataset creation and mini-batch loading
 ├── 06_FashionMNIST_Classification_MLP.ipynb            # Image classification using MLP and cross-entropy loss
 ├── 07_Optimizing_Neural_Networks.ipynb                 # Regularization, Dropout, and network tuning executions
+├── 08_Automated_Hyperparameter_Tuning_Using_Optuna.ipynb # Automated hyperparameter optimization trials
 └── README.md                                           # Repository documentation
 ```
 

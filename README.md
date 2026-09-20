@@ -39,7 +39,11 @@ Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning*
   - Defining dynamic objective functions for autonomous neural network parameter evaluations
   - Implementing Optuna study trials to automate optimal learning rates and layered nodes selection
   - Maximizing evaluation accuracy using automated trial tracking and optimization architectures
-- [ ] **Computer Vision (CNNs) & NLP (RNNs/Transformers)**
+- [x] **Day 9: CNN Architecture (Convolutional Neural Networks)**
+  - Understanding structural spatial filtering using 2D Convolution layers (`nn.Conv2d`)
+  - Implementing Max-Pooling modules (`nn.MaxPool2d`) to scale down feature dimensions
+  - Constructing end-to-end computer vision feature extractors integrated with dense classifiers
+- [ ] **Computer Vision (Advanced CNNs) & NLP (RNNs/Transformers)**
 - [ ] **Model Deployment & Evaluation**
 
 ## 💻 Tech Stack & Tools
@@ -60,6 +64,7 @@ Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning*
 ├── 06_FashionMNIST_Classification_MLP.ipynb            # Image classification using MLP and cross-entropy loss
 ├── 07_Optimizing_Neural_Networks.ipynb                 # Regularization, Dropout, and network tuning executions
 ├── 08_Automated_Hyperparameter_Tuning_Using_Optuna.ipynb # Automated hyperparameter optimization trials
+├── 09_Convolutional_Neural_Networks_CNN.ipynb            # Spatial feature extraction and CNN layer structural design
 └── README.md                                           # Repository documentation
 ```
 

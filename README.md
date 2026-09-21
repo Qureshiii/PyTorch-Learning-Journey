@@ -43,6 +43,10 @@ Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning*
   - Understanding structural spatial filtering using 2D Convolution layers (`nn.Conv2d`)
   - Implementing Max-Pooling modules (`nn.MaxPool2d`) to scale down feature dimensions
   - Constructing end-to-end computer vision feature extractors integrated with dense classifiers
+- [x] **Day 10: RNN Architecture (Recurrent Neural Networks)**
+  - Understanding sequential input tracking and recurrent cell mechanics using `nn.RNN`
+  - Mapping Recurrent Forward Propagation mathematical matrices and hidden states (\(h_t\)) tracking
+  - Processing sequence predictions, input token matching, and targeted hidden output generations
 - [ ] **Computer Vision (Advanced CNNs) & NLP (RNNs/Transformers)**
 - [ ] **Model Deployment & Evaluation**
 
@@ -65,6 +69,7 @@ Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning*
 ├── 07_Optimizing_Neural_Networks.ipynb                 # Regularization, Dropout, and network tuning executions
 ├── 08_Automated_Hyperparameter_Tuning_Using_Optuna.ipynb # Automated hyperparameter optimization trials
 ├── 09_Convolutional_Neural_Networks_CNN.ipynb            # Spatial feature extraction and CNN layer structural design
+├── 10_Recurrent_Neural_Networks_RNN_Architecture.ipynb   # Sequential modeling, forward tracking, and hidden states 🎯
 └── README.md                                           # Repository documentation
 ```
 

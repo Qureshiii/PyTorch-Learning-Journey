@@ -47,8 +47,11 @@ Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning*
   - Understanding sequential input tracking and recurrent cell mechanics using `nn.RNN`
   - Mapping Recurrent Forward Propagation mathematical matrices and hidden states (\(h_t\)) tracking
   - Processing sequence predictions, input token matching, and targeted hidden output generations
-- [ ] **Computer Vision (Advanced CNNs) & NLP (RNNs/Transformers)**
-- [ ] **Model Deployment & Evaluation**
+- [x] **Day 11: Question Answering (QA) System using RNN**
+  - Building an end-to-end Question Answering pipeline using recurrent network layers
+  - Tracking character/word context embeddings and vocabulary mapping for text sequences
+  - Generating context-aware responses and tracking text decoding loss convergence
+
 
 ## 💻 Tech Stack & Tools
 - **Language:** Python 🐍
@@ -70,6 +73,7 @@ Welcome to my repository dedicated to mastering **PyTorch** and **Deep Learning*
 ├── 08_Automated_Hyperparameter_Tuning_Using_Optuna.ipynb # Automated hyperparameter optimization trials
 ├── 09_Convolutional_Neural_Networks_CNN.ipynb            # Spatial feature extraction and CNN layer structural design
 ├── 10_Recurrent_Neural_Networks_RNN_Architecture.ipynb   # Sequential modeling, forward tracking, and hidden states 🎯
+├── 11_Question_Answering_System_QA_RNN.ipynb            # Context-aware text processing, vocabulary mapping, and QA generation 🎯
 └── README.md                                           # Repository documentation
 ```
 
